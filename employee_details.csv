@@ -1,0 +1,72 @@
+emp_id,full_name,job_title,department,business_unit,gender,ethnicity,age,hire_date,annual_salary,bonus,country,city,experience
+1,Emily Davis,Sr. Manger,IT,Research & Development,Female,Black,55,08-04-2016,141604,2,United States,Seattle,2
+2,Luna Sanders,Director,Finance,Speciality Products,Female,Caucasian,50,26-10-2006,163099,4,United States,Chicago,6
+3,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26,27-09-2019,84913,6,United States,Chicago,5
+4,Austin Vo,Sr. Analyst,Finance,Manufacturing,Male,Asian,55,20-11-1995,95409,8,United States,Phoenix,6
+5,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27,01-07-2020,119746,10,United States,Phoenix,1
+6,Luke Martin,Analyst,Finance,Manufacturing,Male,Black,25,16-05-2020,41336,12,United States,Miami,8
+7,Easton Bailey,Manager,Accounting,Manufacturing,Male,Caucasian,29,25-01-2019,113527,14,United States,Austin,8
+8,Madeline Walker,Sr. Analyst,Finance,Speciality Products,Female,Caucasian,34,13-06-2018,77203,16,United States,Chicago,5
+9,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female,Asian,36,11-02-2009,157333,18,United States,Miami,2
+10,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27,21-10-2021,109851,20,United States,Seattle,5
+11,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59,14-03-1999,105086,22,United States,Austin,5
+12,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31,04-11-2017,97078,24,United States,Austin,6
+13,Isabella Xi,Vice President,Marketing,Research & Development,Female,Asian,41,13-03-2013,249270,26,United States,Seattle,7
+14,Bella Powell,Director,Finance,Research & Development,Female,Black,65,04-03-2002,175837,28,United States,Phoenix,5
+15,Camila Silva,Sr. Manger,Marketing,Speciality Products,Female,Latino,64,01-12-2003,154828,30,United States,Seattle,1
+16,David Barnes,Director,IT,Corporate,Male,Caucasian,64,03-11-2013,186503,32,United States,Columbus,1
+17,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36,02-04-2021,151703,34,United States,Miami,6
+18,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37,05-09-2019,49998,36,United States,Seattle,8
+19,Jose Henderson,Director,Human Resources,Speciality Products,Male,Black,41,17-04-2015,152239,38,United States,Columbus,2
+20,Wyatt Chin,Vice President,Engineering,Speciality Products,Male,Asian,43,07-06-2004,246231,40,United States,Seattle,19
+21,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male,Asian,28,25-06-2017,54775,42,United States,Columbus,8
+22,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian,61,11-07-2008,66521,44,United States,Seattle,5
+23,Caroline Jenkins,Analyst,Finance,Research & Development,Female,Caucasian,27,06-05-2018,49011,46,United States,Chicago,45
+24,Nora Brown,Enterprise Architect,IT,Manufacturing,Female,Caucasian,32,11-02-2014,99575,48,United States,Austin,9
+25,Jackson Perry,Vice President,Marketing,Research & Development,Male,Caucasian,27,20-10-2019,256420,50,United States,Phoenix,7
+26,Riley Padilla,Technical Architect,IT,Manufacturing,Female,Latino,35,15-05-2013,78940,52,United States,Miami,5
+27,Kennedy Foster,Manager,Marketing,Speciality Products,Female,Caucasian,53,23-11-2013,113135,54,United States,Austin,2
+28,John Moore,Vice President,IT,Speciality Products,Male,Caucasian,52,08-11-2005,199808,56,United States,Seattle,3
+29,Sadie Washington,Sr. Manger,Marketing,Research & Development,Female,Caucasian,29,24-05-2019,122350,58,United States,Phoenix,8
+30,Gabriel Holmes,Enterprise Architect,IT,Research & Development,Male,Caucasian,40,04-11-2010,92952,60,United States,Seattle,6
+31,Wyatt Rojas,Computer Systems Manager,IT,Corporate,Male,Latino,32,20-03-2013,79921,62,United States,Austin,4
+32,Eva Coleman,Director,IT,Research & Development,Female,Black,37,20-09-2009,167199,64,United States,Seattle,9
+33,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,17-10-2012,71476,66,United States,Phoenix,5
+34,Lucy Alexander,Director,Engineering,Manufacturing,Female,Caucasian,45,29-10-2014,189420,68,United States,Seattle,5
+35,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64,20-10-2001,64057,70,United States,Phoenix,1
+36,Leilani Butler,Analyst II,Marketing,Manufacturing,Female,Black,27,21-09-2021,68728,72,United States,Phoenix,2
+37,John Contreras,Analyst II,Marketing,Manufacturing,Male,Latino,35,15-05-2011,66889,74,United States,Columbus,8
+38,Rylee Yu,Director,Accounting,Research & Development,Female,Asian,36,29-09-2015,178700,76,United States,Seattle,7
+39,Piper Lewis,Field Engineer,Engineering,Research & Development,Female,Caucasian,33,22-12-2018,83990,78,United States,Chicago,6
+40,Stella Alexander,Automation Engineer,Engineering,Corporate,Female,Caucasian,52,10-12-2005,102043,80,United States,Chicago,5
+41,Addison Do,Operations Engineer,Engineering,Manufacturing,Female,Asian,46,30-05-2001,90678,82,United States,Columbus,7
+42,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female,Black,46,21-08-2008,59067,84,United States,Miami,8
+43,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female,Latino,44,18-12-2008,92753,86,United States,Austin,9
+44,Christian Sanders,Vice President,Human Resources,Speciality Products,Male,Black,45,07-08-2013,236946,88,United States,Seattle,4
+45,Penelope Coleman,Analyst,Finance,Corporate,Female,Black,36,27-08-2021,48906,90,United States,Miami,5
+46,Piper Richardson,Sr. Analyst,Sales,Corporate,Female,Caucasian,38,27-01-2008,80024,92,United States,Columbus,6
+47,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,23-10-2009,54415,94,United States,Seattle,1
+48,Aurora Ali,Manager,Marketing,Research & Development,Female,Asian,30,24-04-2016,120341,96,United States,Seattle,2
+49,Penelope Guerrero,Vice President,IT,Speciality Products,Female,Latino,43,04-08-2009,208415,98,United States,Seattle,6
+50,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32,05-01-2020,78844,100,United States,Seattle,7
+51,William Foster,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58,23-05-2002,76354,102,United States,Phoenix,8
+NULL,Jade Rojas,Director,Finance,Speciality Products,Female,Latino,37,28-01-2019,165927,104,United States,Phoenix,5
+NULL,David Chu,Controls Engineer,Engineering,Corporate,Male,Asian,55,03-09-1998,86299,106,United States,Seattle,9
+NULL,Samuel Morales,Analyst II,Finance,Corporate,Male,Latino,34,27-06-2015,57008,108,United States,Phoenix,7
+NULL,John Soto,Sr. Manger,Finance,Manufacturing,Male,Latino,60,23-09-2015,141899,110,United States,Phoenix,8
+NULL,Joseph Martin,Analyst II,Marketing,Corporate,Male,Black,41,13-09-2016,64847,112,United States,Miami,1
+NULL,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,08-04-1992,116878,114,United States,Miami,6
+NULL,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black,45,05-02-2005,70505,116,United States,Austin,5
+NULL,Lincoln Hall,Director,Accounting,Speciality Products,Male,Caucasian,26,28-07-2020,180664,118,United States,Chicago,2
+NULL,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male,Caucasian,29,10-12-2018,84596,120,United States,Miami,3
+NULL,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian,31,22-07-2017,55854,122,United States,Austin,7
+NULL,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53,16-11-2002,95998,124,United States,Seattle,8
+NULL,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female,Asian,34,22-04-2015,154941,126,United States,Phoenix,6
+NULL,Nevaeh Jones,Vice President,Sales,Manufacturing,Female,Caucasian,31,20-08-2020,219693,128,United States,Austin,4
+NULL,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,22-04-2013,61773,130,United States,Seattle,5
+NULL,Madeline Shin,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,09-01-2007,74546,132,United States,Seattle,2
+NULL,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black,56,27-01-2015,62575,134,United States,Miami,4
+NULL,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian,55,05-04-2007,52310,136,United States,Miami,16
+NULL,Grayson Cooper,Sr. Manger,Finance,Speciality Products,Male,Black,64,29-06-2013,159571,138,United States,Columbus,7
+NULL,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50,23-10-1997,91763,140,United States,Austin,3
+NULL,Aurora Simmons,Development Engineer,Engineering,Corporate,Female,Caucasian,51,22-12-1995,96475,142,United States,Austin,5
